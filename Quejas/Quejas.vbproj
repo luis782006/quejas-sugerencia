@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A62002A-9B7B-4A1E-AB7B-9D89B7D58536}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Quejas.My.MyApplication</StartupObject>
+    <RootNamespace>Quejas</RootNamespace>
+    <AssemblyName>Quejas</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Luis\Desktop\Quejas Sin problemas\Instalacion\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Sistema de Quejas 2015</ProductName>
+    <PublisherName>Luis Felipe Sanchez Barranco</PublisherName>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Quejas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Quejas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>contacto-informacion-quejas-o-sugerencias-dartesan.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3B42718208385D02533835A5AA3D353570FC7260</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=11.2.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.2.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAcercade.Designer.vb">
+      <DependentUpon>frmAcercade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcercade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conexion.vb" />
+    <Compile Include="frmAjustes.Designer.vb">
+      <DependentUpon>frmAjustes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjustes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigCorreos.Designer.vb">
+      <DependentUpon>frmConfigCorreos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigCorreos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnvioQuejas.Designer.vb">
+      <DependentUpon>frmEnvioQuejas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnvioQuejas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInsertarQuejas.Designer.vb">
+      <DependentUpon>frmInsertarQuejas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInsertarQuejas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuejasPendientes.Designer.vb">
+      <DependentUpon>frmQuejasPendientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuejasPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuejasRealizadas.Designer.vb">
+      <DependentUpon>frmQuejasRealizadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuejasRealizadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGeneral.Designer.vb">
+      <DependentUpon>frmGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteFecha.Designer.vb">
+      <DependentUpon>frmReporteFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Procedimientos.vb" />
+    <Compile Include="QuejasDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuejasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuejasDataSet.vb">
+      <DependentUpon>QuejasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuejasDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuejasDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuejasDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuejasDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesDepartamentos.Designer.vb">
+      <DependentUpon>ReportesDepartamentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesDepartamentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesGeneral.Designer.vb">
+      <DependentUpon>ReportesGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesNoRea.Designer.vb">
+      <DependentUpon>ReportesNoRea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesNoRea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesRealizadas.Designer.vb">
+      <DependentUpon>ReportesRealizadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesRealizadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAcercade.resx">
+      <DependentUpon>frmAcercade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjustes.resx">
+      <DependentUpon>frmAjustes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigCorreos.resx">
+      <DependentUpon>frmConfigCorreos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnvioQuejas.resx">
+      <DependentUpon>frmEnvioQuejas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInsertarQuejas.resx">
+      <DependentUpon>frmInsertarQuejas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuejasPendientes.resx">
+      <DependentUpon>frmQuejasPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuejasRealizadas.resx">
+      <DependentUpon>frmQuejasRealizadas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGeneral.resx">
+      <DependentUpon>frmGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteFecha.resx">
+      <DependentUpon>frmReporteFecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.es.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="probando.rdlc" />
+    <EmbeddedResource Include="ReporteDepartamento.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteFechas.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteGeneral.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteNoRea.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteRealizadas.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesDepartamentos.resx">
+      <DependentUpon>ReportesDepartamentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesGeneral.resx">
+      <DependentUpon>ReportesGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesNoRea.resx">
+      <DependentUpon>ReportesNoRea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesRealizadas.resx">
+      <DependentUpon>ReportesRealizadas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuejasDataSet.xsc">
+      <DependentUpon>QuejasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuejasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuejasDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuejasDataSet.xss">
+      <DependentUpon>QuejasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuejasDataSet1.xsc">
+      <DependentUpon>QuejasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuejasDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuejasDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuejasDataSet1.xss">
+      <DependentUpon>QuejasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuejasDataSet2.xsc">
+      <DependentUpon>QuejasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QuejasDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuejasDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuejasDataSet2.xss">
+      <DependentUpon>QuejasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Quejas_TemporaryKey.pfx" />
+    <None Include="Resources\recepcionistas-g %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recepcionistas-g %282%29 copia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recepcionistas-g.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funnel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funnel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date-time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_up1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_headsetRealizado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_headset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_headset1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_headset2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_agent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_agent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\status_unknown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_new1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_preferences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1leftarrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1rightarrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-buildingNuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-buildingModificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-buildingGuardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-buildingEliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.11.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Report Viewer 2012 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail2modificar.png" />
+    <None Include="Resources\mail2guardar.png" />
+    <None Include="Resources\mail2add.png" />
+    <None Include="Resources\maileliminar.png" />
+    <None Include="Resources\mail21.png" />
+    <None Include="Resources\mail_generic.png" />
+    <None Include="Resources\acroread.png" />
+    <None Include="Resources\mail2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="contacto-informacion-quejas-o-sugerencias-dartesan.ico" />
+    <Content Include="Quejas.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\1rightarrow.png" />
+    <None Include="Resources\user_headsetAjustes.png" />
+    <None Include="Resources\recepcionistas-g %282%29.jpg" />
+    <None Include="Resources\socket decriptado.png" />
+    <None Include="Resources\socket reload.png" />
+    <None Include="Resources\encrypted.png" />
+    <None Include="Resources\decrypted.png" />
+    <None Include="Resources\socket copia.png" />
+    <None Include="Resources\editdelete.png" />
+    <None Include="Resources\socket1.png" />
+    <None Include="Resources\socket.png" />
+    <None Include="Resources\connect_to_network1.png" />
+    <None Include="Resources\connect_to_network.png" />
+    <None Include="Resources\knetconfig.png" />
+    <None Include="Resources\kuser.png" />
+    <None Include="Resources\kget.png" />
+    <None Include="Resources\email.png" />
+    <None Include="Resources\exec.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

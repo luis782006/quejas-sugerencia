@@ -1,0 +1,410 @@
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\AppData\Local\Temporary Projects\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Documents\Almacen de informacion\Tutoriales Melia Recoleta\Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasEnvio.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasEnvio.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Copia Ultima\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasEnvio.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Solo diseñoQuejas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\bin\Debug\Quejas.accdb
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\RdlCompile.cache
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\RdlCompile.compiled
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+C:\Users\Luis\Desktop\Ultima quejas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\Quejas.accdb
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\RdlCompile.cache
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\RdlCompile.compiled
+C:\Users\Luis\Desktop\Back up de Sistema Quejas\copia de back up con correo\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.accdb
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\RdlCompile.cache
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\RdlCompile.compiled
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAcercade.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmConfigCorreos.resources
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.manifest
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.application
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe.manifest
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.application
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Deployment.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Drawing.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Web.Services.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Windows.Forms.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.Linq.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteDepartamento.rdlc
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteFechas.rdlc
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteGeneral.rdlc
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteNoRea.rdlc
+C:\Users\Luis\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteRealizadas.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.accdb
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteDepartamento.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteFechas.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteGeneral.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteNoRea.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteRealizadas.rdlc
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.manifest
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.application
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.pdb
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.xml
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.SqlServerCe.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Deployment.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Drawing.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Web.Services.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Windows.Forms.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.Linq.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAcercade.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmConfigCorreos.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe.manifest
+G:\Salva de Pen de Noe\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.application
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.accdb
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteDepartamento.rdlc
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteFechas.rdlc
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteGeneral.rdlc
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteNoRea.rdlc
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteRealizadas.rdlc
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.manifest
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.application
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.pdb
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.xml
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Deployment.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Drawing.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Web.Services.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Windows.Forms.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.Linq.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAcercade.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmConfigCorreos.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe.manifest
+C:\Users\luis7\Desktop\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.application
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.accdb
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteDepartamento.rdlc
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteFechas.rdlc
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteGeneral.rdlc
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteNoRea.rdlc
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteRealizadas.rdlc
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.manifest
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.application
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.pdb
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.xml
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.SqlServerCe.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Deployment.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Drawing.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Web.Services.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Windows.Forms.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.Linq.dll
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbprojResolveAssemblyReference.cache
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAcercade.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmConfigCorreos.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.Cache
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe.manifest
+G:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.application
+H:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+H:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+H:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+H:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.accdb
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteDepartamento.rdlc
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteFechas.rdlc
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteGeneral.rdlc
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteNoRea.rdlc
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ReporteRealizadas.rdlc
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.config
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe.manifest
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.application
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.exe
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.pdb
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\Quejas.xml
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Quejas.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Data.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Deployment.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Drawing.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Web.Services.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Windows.Forms.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\System.Xml.Linq.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\bin\Debug\es\System.Data.SqlServerCe.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.AssemblyReference.cache
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.SuggestedBindingRedirects.cache
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAcercade.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmAjustes.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmConfigCorreos.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmEnvioQuejas.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInsertarQuejas.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasPendientes.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmQuejasRealizadas.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmGeneral.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmReporteFecha.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.Resources.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesDepartamentos.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesGeneral.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesNoRea.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.ReportesRealizadas.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.frmInicio.es.resources
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.GenerateResource.cache
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.vbproj.CoreCompileInputs.cache
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\es\Quejas.resources.dll
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe.manifest
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.application
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.exe
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.xml
+F:\Quejas Sin problemas\Quejas\Quejas\obj\Debug\Quejas.pdb
